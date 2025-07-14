@@ -92,6 +92,6 @@ C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\refint\MyPortfolio.dll
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.pdb
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.genruntimeconfig.cache
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\ref\MyPortfolio.dll
-C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\wuz8f7d9rl-0weckyimjz.gz
-C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\z7gkylbl68-0weckyimjz.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\dhonh3mkng-kp3qofs8v3.gz
+C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\wuz8f7d9rl-k92r1hku4o.gz
+C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\z7gkylbl68-k92r1hku4o.gz

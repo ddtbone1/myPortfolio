@@ -51,3 +51,6 @@ button.accept-policy[b-fn2rs6u0d8] {
   padding-left: 2rem;  /* Example: increase left padding */
   padding-right: 2rem; /* Example: increase right padding */
 }
+body[b-fn2rs6u0d8] {
+  padding-top: 70px; /* Adjust for fixed navbar height */
+}

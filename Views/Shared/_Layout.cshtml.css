@@ -51,3 +51,6 @@ button.accept-policy {
   padding-left: 2rem;  /* Example: increase left padding */
   padding-right: 2rem; /* Example: increase right padding */
 }
+body {
+  padding-top: 70px; /* Adjust for fixed navbar height */
+}
