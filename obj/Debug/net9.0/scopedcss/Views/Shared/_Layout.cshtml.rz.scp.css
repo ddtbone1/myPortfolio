@@ -46,3 +46,8 @@ button.accept-policy[b-fn2rs6u0d8] {
   white-space: nowrap;
   line-height: 60px;
 }
+.container[b-fn2rs6u0d8] {
+  max-width: 2000px;   /* Example: change max width */
+  padding-left: 2rem;  /* Example: increase left padding */
+  padding-right: 2rem; /* Example: increase right padding */
+}

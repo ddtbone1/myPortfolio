@@ -15,13 +15,13 @@ C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.csproj.CoreCompileInputs.
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.RazorAssemblyInfo.cache
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.RazorAssemblyInfo.cs
+C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.sourcelink.json
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\scopedcss\bundle\MyPortfolio.styles.css
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\scopedcss\projectbundle\MyPortfolio.bundle.scp.css
-C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\dhonh3mkng-b9sayid5wm.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\zh5axwy674-61n19gt1b8.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\b2ddg8hmia-xtxxf3hu2r.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\dxhqkn6asf-bqjiyaj88i.gz
@@ -83,8 +83,6 @@ C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\wkdzptwd64-2z0ns9nrw6.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\h9si9lay76-muycvpuwrr.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\rbksb5wuk1-87fc7y1x7t.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\jey7v51bw4-mlv21k5csn.gz
-C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\wuz8f7d9rl-1krbjet5gn.gz
-C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\z7gkylbl68-1krbjet5gn.gz
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\staticwebassets.development.json
@@ -94,3 +92,6 @@ C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\refint\MyPortfolio.dll
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.pdb
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\MyPortfolio.genruntimeconfig.cache
 C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\ref\MyPortfolio.dll
+C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\wuz8f7d9rl-0weckyimjz.gz
+C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\z7gkylbl68-0weckyimjz.gz
+C:\Users\Karl\MyPortfolio\obj\Debug\net9.0\compressed\dhonh3mkng-kp3qofs8v3.gz

@@ -2,5 +2,47 @@
     ViewData["Title"] = "Home";
 }
 
-<h1>Welcome to Karl's Portfolio</h1>
-<p>This site is built with ASP.NET Core MVC!</p>
+
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({
+    once: false // <-- allow animations to repeat when scrolling back
+  });
+</script>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
+
+<section id="home" class="d-flex align-items-center justify-content-center bg-light" style="min-height: 100vh;">
+    <div class="container">
+        <h1 class="display-3" data-aos="zoom-in">Hello, I am</h1>
+        <h2 class="display-4 fw-bold" data-aos="fade-up" data-aos-delay="400">Karl Edu Martin Gomez</h2>
+        <p class="lead mt-5" data-aos="fade-up" data-aos-delay="400">
+            I'm an aspiring <span class="text-purple fw-bold">Full stack developer</span> passionate about building scalable applications using ASP.NET core
+        </p>
+        <a href="#" class="btn btn-dark btn-lg text-white mt-5" data-aos="zoom-in" data-aos-delay="500">Download CV</a>
+    </div>
+</section> 
+
+
+<section id="about" class="d-flex align-items-center justify-content-center bg-light" style="min-height: 100vh;">
+    <div class="container text-center">
+        <h2 class="display-4 fw-bold mb-4" data-aos="zoom-in" data-aos-delay="300">About Me</h2>
+        <p class="lead mb-3" data-aos="fade-up" data-aos-delay="300">
+            I'm <span class="fw-bold text-purple">Karl Gomez</span>, a Computer Science student at the University of Cebu, passionate about building clean, scalable backend systems using <span class="fw-bold">C#</span> and <span class="fw-bold">ASP.NET Core</span>.
+        </p>
+        <p class="mb-3" data-aos="fade-up" data-aos-delay="300">
+            I enjoy solving real-world problems through software and continuously explore new technologies to improve my skills.
+        </p>
+        <p class="mb-2" data-aos="fade-up" data-aos-delay="300">
+            <strong>Skills:</strong> C#, ASP.NET Core, SQL, Git, Bootstrap
+        </p>
+        <p data-aos="fade-up" data-aos-delay="300">
+            <strong>Education:</strong> BSc Computer Science, University of Cebu, 2026
+        </p>
+    </div>
+</section>

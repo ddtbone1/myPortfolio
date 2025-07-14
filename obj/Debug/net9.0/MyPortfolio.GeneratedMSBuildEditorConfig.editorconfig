@@ -32,16 +32,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXGFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Karl/MyPortfolio/Views/Portfolio/contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXGNvbnRhY3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Karl/MyPortfolio/Views/Portfolio/home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXGhvbWUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Karl/MyPortfolio/Views/Portfolio/projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXHByb2plY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Karl/MyPortfolio/Views/Shared/Error.cshtml]
